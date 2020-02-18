@@ -1,0 +1,16 @@
+{
+  "name": "sse-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eventsource": "^1.0.7",
+    "http-server": "^0.12.1",
+    "sse": "0.0.8"
+  }
+}
