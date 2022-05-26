@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "http-server": "^0.12.1",
     "sse": "0.0.8"
   }
